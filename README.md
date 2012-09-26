@@ -10,11 +10,14 @@ Getting started guides:
 Running the examples:
 ---------------------
 
-On Unix execute runExamples.sh, 
-on Windows runExamples.bat. 
+On Unix execute **runExamples.sh**, 
+on Windows **runExamples.bat**. 
 
-This will start StreamHub at http://localhost:7979/ - 
-open that page in your browser to view the examples.
+This will start StreamHub at:
+
+<a href="http://localhost:7979/">http://localhost:7979/</a>
+
+Open that page in your browser to view the examples.
 
 License:
 --------
