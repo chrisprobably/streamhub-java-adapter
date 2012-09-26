@@ -4,8 +4,8 @@ StreamHub
 Getting started guides:
 -----------------------
 
-http://streamhub.blogspot.com/2009/10/getting-started-with-reverse-ajax-and.html
-http://streamhub.blogspot.com/2009/07/getting-started-with-streamhub-and.html
+ * http://streamhub.blogspot.com/2009/10/getting-started-with-reverse-ajax-and.html
+ * http://streamhub.blogspot.com/2009/07/getting-started-with-streamhub-and.html
 
 Running the examples:
 ---------------------
