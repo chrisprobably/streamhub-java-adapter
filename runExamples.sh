@@ -1,0 +1,1 @@
+java -cp examples/lib/jar/${streamhub.artifact.name}-${streamhub.version}.jar:examples/lib/jar/${project.build.finalName}.jar:examples/lib/jar/log4j-1.2.14.jar:examples/lib/jar/json-20080701.jar DemoRunner 

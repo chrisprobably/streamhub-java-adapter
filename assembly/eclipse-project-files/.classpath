@@ -1,0 +1,8 @@
+<classpath>
+  <classpathentry kind="src" path="examples"/>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="lib" path="examples/lib/jar/json-20080701.jar"/>
+  <classpathentry kind="lib" path="examples/lib/jar/log4j-1.2.14.jar"/>
+  <classpathentry kind="lib" path="examples/lib/jar/${streamhub.artifact.name}-${streamhub.version}.jar"/>
+</classpath>
